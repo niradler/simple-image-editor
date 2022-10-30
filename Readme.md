@@ -4,6 +4,10 @@ simple editor build with python.
 
 ## Usage
 
+```sh
+py gui.py
+```
+
 ### Select image:
 
 ![Starting point](https://github.com/niradler/simple-image-editor/blob/master/screens/base.PNG?raw=true)
